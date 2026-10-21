@@ -1,0 +1,59 @@
+{
+  "background_top": "#211E27",
+  "background_bottom": "#2C2332",
+  "font": "assets/Montserrat.ttf",
+  "width": 1080,
+  "height": 1920,
+  "elements": [
+    {
+      "text": "LILIIA KYCHENKO",
+      "y": 505,
+      "size": 76,
+      "weight": 650,
+      "color": "#FFFFFF"
+    },
+    {
+      "text": "META ADS SPECIALIST",
+      "y": 620,
+      "size": 36,
+      "weight": 550,
+      "tracking": 3,
+      "color": "#E6A5C2"
+    },
+    {
+      "text": "Хотите больше",
+      "y": 845,
+      "size": 49,
+      "weight": 500,
+      "color": "#FFFFFF"
+    },
+    {
+      "text": "целевых обращений?",
+      "y": 911,
+      "size": 49,
+      "weight": 500,
+      "color": "#FFFFFF"
+    },
+    {
+      "text": "Напишите «РЕКЛАМА»",
+      "y": 1105,
+      "size": 62,
+      "weight": 650,
+      "color": "#E6A5C2"
+    },
+    {
+      "text": "в Direct",
+      "y": 1183,
+      "size": 62,
+      "weight": 650,
+      "color": "#FFFFFF"
+    },
+    {
+      "text": "@target.with.liliia",
+      "y": 1390,
+      "size": 43,
+      "weight": 550,
+      "color": "#E6A5C2"
+    }
+  ]
+}
