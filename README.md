@@ -1,5 +1,7 @@
 # Видеопроекты
 
+[Liliia Meta Ads Promo — Preview V2: скачать MP4 и проект](Liliia_Meta_Ads_Promo/V2/README.md)
+
 [Liliia Meta Ads Promo — превью, End Card и редактируемый проект](Liliia_Meta_Ads_Promo/README.md)
 
 # Legacy Girls Night Out
