@@ -1,5 +1,9 @@
 # Legacy Girls Night Out
 
+[Download Lifestyle Preview V7](Legacy_Girls_Night_Preview_V7.mp4?raw=true) · [Music attribution](Legacy_Girls_Night_Preview_V7_CREDITS.md)
+
+V7: 23 seconds with longer emotional holds, fewer cuts and larger titles.
+
 [Download Preview V6](Legacy_Girls_Night_Preview_V6.mp4?raw=true) · [Music attribution](Legacy_Girls_Night_Preview_V6_CREDITS.md)
 
 [Download Party Edit — Preview V5](Legacy_Girls_Night_Preview_V5.mp4?raw=true)
