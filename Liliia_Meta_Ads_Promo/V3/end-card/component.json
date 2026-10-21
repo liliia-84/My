@@ -1,0 +1,42 @@
+{
+  "background": "#232527",
+  "width": 1080,
+  "height": 1920,
+  "elements": [
+    {
+      "text": "ЛИЛИЯ КИЧЕНКО",
+      "y": 530,
+      "size": 86,
+      "weight": 750,
+      "color": "#FFFFFF"
+    },
+    {
+      "text": "META ADS SPECIALIST",
+      "y": 660,
+      "size": 44,
+      "weight": 600,
+      "color": "#D6D8DA"
+    },
+    {
+      "text": "Напишите «РЕКЛАМА»",
+      "y": 1000,
+      "size": 67,
+      "weight": 800,
+      "color": "#FFFFFF"
+    },
+    {
+      "text": "в Direct",
+      "y": 1090,
+      "size": 74,
+      "weight": 750,
+      "color": "#FFFFFF"
+    },
+    {
+      "text": "@target.with.liliia",
+      "y": 1330,
+      "size": 60,
+      "weight": 650,
+      "color": "#D6D8DA"
+    }
+  ]
+}
