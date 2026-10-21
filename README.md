@@ -1,5 +1,9 @@
 # Legacy Girls Night Out
 
+[Download Preview V8](Legacy_Girls_Night_Preview_V8.mp4?raw=true) · [Music attribution](Legacy_Girls_Night_Preview_V8_CREDITS.md)
+
+V8 preserves V7 with a warmer live ending, larger titles, a 2.8-second closing text episode and a gentle music fade.
+
 [Download Lifestyle Preview V7](Legacy_Girls_Night_Preview_V7.mp4?raw=true) · [Music attribution](Legacy_Girls_Night_Preview_V7_CREDITS.md)
 
 V7: 23 seconds with longer emotional holds, fewer cuts and larger titles.
